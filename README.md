@@ -4,4 +4,4 @@ In this assignment we are learning how to detect and fix threat issues using Thr
 
 Information Disclosure Data expose takes place when a website or application erroneously makes data accessible to unapproved individuals. Therefore, the risk can pose the effect on an application's workflow, data storing, and data stream. Information revelation can take many methods, such as unplanned access to scripts of code files through provisional backups, the unnecessary revelation of sensitive data like credit card info, and the inclusion of database details in error notifications. These hitches are common and can be caused by openly shared internal data, loose application arrangements, or insufficient error control in the application's design.
 
-image
+![image](https://user-images.githubusercontent.com/104536170/235407411-a85f46ad-4551-4dbe-a4ee-c2d7dab57571.png)
